@@ -138,7 +138,18 @@ Requires Python ≥ 3.9 and `cryptography ≥ 42`.
 
 ## Kotlin / Android
 
-A Kotlin port that matches the same test vectors is in progress. The Python package is the verified reference; any mobile implementation should pass the same behavioural checks.
+Kotlin behavioural port: https://github.com/Mourad-Soltani/arachne-guard-kotlin  
+Android Keystore path and proof bar: [docs/ANDROID.md](https://github.com/Mourad-Soltani/arachne-guard-kotlin/blob/main/docs/ANDROID.md) in that repo.
+
+## Independent review & design partners
+
+- **Audit package** (ready for external reviewer): [`docs/audit/`](docs/audit/)
+- **Design partner brief**: [`docs/partners/DESIGN_PARTNER_PITCH.md`](docs/partners/DESIGN_PARTNER_PITCH.md)
+- Open an issue with label `design-partner` if you want to run it in a real agent/MCP path.
+
+## Commercial (deferred)
+
+Hosted policy + off-device checkpoint plane is designed but **not built** until there are real users. See [`docs/commercial/HOSTED_PLANE.md`](docs/commercial/HOSTED_PLANE.md).
 
 ## Licence
 
