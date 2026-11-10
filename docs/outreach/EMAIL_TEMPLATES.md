@@ -75,3 +75,6 @@ Mourad
 | 2026-11-10 | Aembit | info@aembit.io | Sent |
 | 2026-11-10 | Descope | info@descope.com | Sent |
 | 2026-11-10 | Keycard | help@keycard.ai | Sent |
+| 2026-11-10 | Aembit CEO | david@aembit.io | Sent |
+| 2026-11-10 | Descope CEO | slavik@descope.com | Sent |
+| 2026-11-10 | Keycard CEO | ian@keycard.ai | Sent |
