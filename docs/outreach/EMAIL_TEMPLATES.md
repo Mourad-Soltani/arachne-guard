@@ -67,3 +67,11 @@ Mourad
 | Date | Target | Channel | Template | Status |
 |------|--------|---------|----------|--------|
 |      |        |         |          |        |
+
+## Sent log (2026-11-10)
+
+| Date | Target | Address | Status |
+|------|--------|---------|--------|
+| 2026-11-10 | Aembit | info@aembit.io | Sent |
+| 2026-11-10 | Descope | info@descope.com | Sent |
+| 2026-11-10 | Keycard | help@keycard.ai | Sent |
